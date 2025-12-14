@@ -8,4 +8,5 @@ Due to data size and licensing restrictions, raw data (NIDS, CHIRPS, shapefiles)
 - shapefiles: https://dataportal-mdb-sa.opendata.arcgis.com/search?tags=2011
 
 
-Scripts are organized in numerical order (01–03) and reproduce all tables and figures in the paper.
+Scripts are organized in numerical order (01–03) and reproduce all tables and figures in the paper. Scripts should be run in numerical order.
+
